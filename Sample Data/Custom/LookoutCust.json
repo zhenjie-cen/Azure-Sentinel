@@ -1,7 +1,4 @@
-{
-  
-  
-  "dataCustomization": [
+ [
     {
       "fieldName": "eventType",
       "values": [ "Activity", "Anomaly", "Violation" ],
@@ -28,4 +25,3 @@
       "dataType": "datetime"
     }
   ]
-}
