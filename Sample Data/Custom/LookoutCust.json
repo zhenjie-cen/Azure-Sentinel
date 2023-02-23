@@ -1,0 +1,31 @@
+{
+  
+  
+  "dataCustomization": [
+    {
+      "fieldName": "eventType",
+      "values": [ "Activity", "Anomaly", "Violation" ],
+      "dataType": "string"
+    },
+    {
+      "fieldName": "userEmail",
+      "values": ["sanitized@sanitized.com"],
+      "dataType": "string"
+    },
+    {
+      "fieldName": "actionType",
+      "values": ["Redact","Mask"],
+      "dataType": "string"
+    },
+    {
+      "fieldName": "timeStamp",
+      "values": [],
+      "dataType": "datetime"
+    },	 
+    {
+      "fieldName": "currentTimestamp",
+      "values": [],
+      "dataType": "datetime"
+    }
+  ]
+}
